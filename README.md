@@ -49,6 +49,7 @@ Thanks
 * jacob1
 * mniip
 * LBPHacker
+* Kobe Albright (SpikeViper) - Created the mod
 
 Libraries and other assets used
 ===========================================================================
