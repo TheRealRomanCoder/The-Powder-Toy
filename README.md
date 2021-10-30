@@ -1,9 +1,7 @@
-Note to any skeptics visiting this repo. I will confirm my username on youtube is Miles Rocks.
-
-The Powder Toy - July 2021
+The Powder Toy Spike Mod - Beta October 2021
 ==========================
 
-Get the latest version [from the Powder Toy website](https://powdertoy.co.uk/Download.html).
+Get the latest version [from The-Powder-Toy-Spike-Beta Github Page](https://github.com/TheRealRomanCoder/The-Powder-Toy-Spike-Beta).
 
 To use online features such as saving, you need to [register an account](https://powdertoy.co.uk/Register.html).
 You can also visit [the official TPT forum](https://powdertoy.co.uk/Discussions/Categories/Index.html).
@@ -12,7 +10,20 @@ Have you ever wanted to blow something up? Or maybe you always dreamt of operati
 
 The Powder Toy is a free physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances! The game provides you with various building materials, liquids, gases and electronic components which can be used to construct complex machines, guns, bombs, realistic terrains and almost anything else. You can then mine them and watch cool explosions, add intricate wirings, play with little stickmen or operate your machine. You can browse and play thousands of different saves made by the community or upload your own – we welcome your creations!
 
-There is a Lua API – you can automate your work or even make plugins for the game. The Powder Toy is free and the source code is distributed under the GNU General Public License, so you can modify the game yourself or help with development. TPT is compiled using scons.
+There is a Lua API – you can automate your work or even make plugins for the game. The Powder Toy is free and the source code is distributed under the GNU General Public License, so you can modify the game yourself or help with development.
+
+Bug reoprting
+===========================================================================
+
+To report bugs, click on the issues section, and click the "new issue" button, and list detailed info that must include:
+
+* The Powder Toy version
+* Mod Version
+* Error Code (Only if the game crashes)
+* What you did to get this error (Only if the game crashes)
+* How the bug effects the game
+
+Any Issue Post that do not abide by these rules will be closed and ignored.
 
 Build instructions
 ===========================================================================
